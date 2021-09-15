@@ -7,6 +7,9 @@ Tema 02. Entornos de desarrollo. Curso 2021/2022.
 1. Entornos de desarrollo
 2. Funciones y Herramientas
 
+## Guias de instalación
+- [Software inicial](instalacion.md)
+- [Instalación y Configuración de IDE](./IDE_Javier_Garcia.pdf)
 
 
 ## Recursos
